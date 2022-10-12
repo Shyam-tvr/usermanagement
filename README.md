@@ -46,7 +46,7 @@ Open http://localhost:3000 to view it in your browser.
 
 ## Contributing
 
-Thank you for considering contributing to this incubation project
+Thank you for considering contributing to this project
 
 ## Author
 
